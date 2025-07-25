@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nasıl Olur? | Bilgi ve Rehberler</title>
+  <meta name="description" content="Evden para kazanma yolları, teknoloji rehberleri ve hayatı kolaylaştıran bilgiler.">
+</head>
+<body style="font-family:sans-serif; padding:20px;">
+  <header style="text-align:center;">
+    <h1>💡 NasilOlur.com</h1>
+    <p>Hayatı kolaylaştıran içerikler burada!</p>
+  </header>
+
+  <main>
+    <article>
+      <h2>🏠 Evden Para Kazanmanın 5 Yolu</h2>
+      <p>Freelance işler, e-ticaret, içerik üretimi ve daha fazlası...</p>
+    </article>
+
+    <article>
+      <h2>📱 Telefonla Web Sitesi Açmak</h2>
+      <p>Bu sayfada adım adım anlattım. Sadece telefonla site açmak çok kolay!</p>
+    </article>
+
+    <article>
+      <h2>🧠 Hafızayı Güçlendirme Teknikleri</h2>
+      <p>Daha iyi öğrenmek ve unutmamak için bilimsel teknikler.</p>
+    </article>
+  </main>
+
+  <footer style="text-align:center; padding: 20px;">
+    <p>&copy; 2025 NasilOlur.com - Tüm Hakları Saklıdır</p>
+  </footer>
+</body>
+</html>
